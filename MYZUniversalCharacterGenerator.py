@@ -473,6 +473,7 @@ while 1 == 1:
                 f.write('\n')
 
     print("---")
+    print("By: Jack Goble")
     #print("Your options are:")
     #print("Random (or press enter) - Generate a random character")
     #print("Manual - Generate a character given manual attributes. You can press enter at any time for a random value.")
