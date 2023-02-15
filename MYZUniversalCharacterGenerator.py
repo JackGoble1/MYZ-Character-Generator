@@ -472,8 +472,9 @@ while 1 == 1:
                     "Please manage my armor pieces and modules seprately from my generation!")
                 f.write('\n')
 
-    print("---")
+    
     print("By: Jack Goble")
+    print("---")
     #print("Your options are:")
     #print("Random (or press enter) - Generate a random character")
     #print("Manual - Generate a character given manual attributes. You can press enter at any time for a random value.")
