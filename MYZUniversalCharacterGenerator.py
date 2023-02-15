@@ -411,9 +411,6 @@ while 1 == 1:
             print(
                 "Please manage my armor pieces and modules seprately from my generation!")
         print("----")
-        print("If you liked this generator, please give kudos, kind messages and upvotes to r/RedRuttinRabbit and r/MutantYearZero!")
-        print("Me: https://www.reddit.com/user/RedRuttinRabbit")
-        print("r/MutantYearZero: https://www.reddit.com/r/mutantyearzero/")
 
     def save(age, firstname, lastname, profession, charactertype, Levels, skills, attributes, charactertraits, agevalues, reputation):
         firstname = str(firstname)
@@ -474,15 +471,7 @@ while 1 == 1:
                 f.write(
                     "Please manage my armor pieces and modules seprately from my generation!")
                 f.write('\n')
-            f.write("----")
-            f.write('\n')
-            f.write("If you liked this generator, please give kudos, kind messages and upvotes to r/RedRuttinRabbit and r/MutantYearZero!")
-            f.write('\n')
-            f.write("Me: https://www.reddit.com/user/RedRuttinRabbit")
-            f.write('\n')
-            f.write("r/MutantYearZero: https://www.reddit.com/r/mutantyearzero/")
 
-    print("Hello! Welcome to r/RedRuttinRabbit's MYZ NPC/PC Generator!")
     print("---")
     #print("Your options are:")
     #print("Random (or press enter) - Generate a random character")
