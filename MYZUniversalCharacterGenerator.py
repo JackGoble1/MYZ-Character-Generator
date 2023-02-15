@@ -1,4 +1,4 @@
-# r/RedRuttinRabbit
+# By: Jack Goble
 # Mutant: Year Zero Character Generator!
 import random
 import string
